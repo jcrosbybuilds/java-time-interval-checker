@@ -29,7 +29,6 @@ This project demonstrates object-oriented software design by implementing a grap
 ## Object-Oriented Design
 
 ---
-
 This project demonstrates several core object-oriented programming concepts:
 
 - Generic classes (`Interval<T>`)
@@ -78,7 +77,9 @@ The application's class relationships are illustrated below.
 ## Testing
 
 ---
-The application was tested against a variety of valid and invalid input scenarios including:
+The application was tested against a variety of valid and invalid input scenarios.
+
+### Test Scenarios
 
 - Overlapping intervals
 - Sub-interval detection
